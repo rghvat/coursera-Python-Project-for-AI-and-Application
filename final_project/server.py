@@ -4,7 +4,7 @@ from machinetranslation import translator
 from flask import Flask, render_template, request
 
 
-from translator import english_to_french, english_to_spanish, spanish_to_english, french_to_english
+#from translator import english_to_french, english_to_spanish, spanish_to_english, french_to_english
 
 
 
